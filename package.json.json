@@ -1,0 +1,11 @@
+{
+  "name": "admin-dashboard-app-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start dashboard"
+  },
+  "author": "Natan de Souza Cunha",
+  "license": "ISC"
+}
